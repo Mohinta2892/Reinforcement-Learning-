@@ -1,2 +1,2 @@
 # Reinforcement-Learning-
-Code sample for MSc thesis project
+Code sample from MSc thesis project
